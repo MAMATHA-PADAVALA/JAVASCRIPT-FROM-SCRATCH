@@ -58,4 +58,18 @@ console.log(typeof d)
 console.log(typeof z)
 console.log(typeof x)
 
+const item={
+
+    "Mamatha":true,
+    "srinadh":false,
+
+}
+
+console
+.log(item["Mamatha"])
+console.log(item["Hy"]) //undefined
+console.log(item["srinadh"])
+console.log(typeof item)  //object
+
+
 
