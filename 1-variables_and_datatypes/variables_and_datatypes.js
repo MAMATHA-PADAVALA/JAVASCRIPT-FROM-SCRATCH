@@ -69,6 +69,7 @@ console
 .log(item["Mamatha"])
 console.log(item["Hy"]) //undefined
 console.log(item["srinadh"])
+console.log(item.Mamatha)
 console.log(typeof item)  //object
 
 
